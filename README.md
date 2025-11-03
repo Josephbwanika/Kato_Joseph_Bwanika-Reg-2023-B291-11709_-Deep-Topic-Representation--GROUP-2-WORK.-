@@ -1,11 +1,10 @@
 # Deep Topic Representation for Swahili News
 
 **Student Name:** Kato Joseph Bwanika  
-**Registration Number:** Reg:2023-B291-11709 
-**Course:** Bachelors In Computer Science 
-**Institution:** Uganda Martyrs University  
+**Registration Number:** Reg:2023-B291-11709               
+**Course:** Bachelors In Computer Science             
+**Institution:** Uganda Martyrs University                
 **Project Title:** Deep Topic Representation for Swahili News Articles  
-
 ---
 
 ## Abstract
@@ -133,3 +132,4 @@ This provides a foundation for future research in **low-resource language proces
 **Kato Joseph Bwanika**  
 Reg:2023-B291-11709
 Uganda Martyrs University
+
